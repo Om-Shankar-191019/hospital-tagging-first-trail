@@ -27,7 +27,7 @@ const SearchBox = ({setSingleLocation}) => {
         <div style={{display:'flex'}}>
             <div style={{flex:1}}>
                 <OutlinedInput 
-                    placeholder='Search hospitals in any district'
+                    placeholder='Search hospitals in any district throught India'
                     autoFocus
                     style={{width:'100%'}}
                     value={searchText}
